@@ -1,4 +1,4 @@
-# DefenderTool
+# DefenderTool (Translated to english)
 
 DefenderTool is a Windows utility application that allows you to manage Windows Defender and other security mitigations on your system with ease. With a simple graphical interface, you can enable or disable Windows Defender, remove it entirely, or disable all security mitigations.
 
