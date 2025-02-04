@@ -1,0 +1,4 @@
+C:\Users\Dany\Desktop\WInUpdateTool\obj\Debug\net9.0\WInUpdateTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Desktop\WInUpdateTool\obj\Debug\net9.0\WInUpdateTool.AssemblyInfoInputs.cache
+C:\Users\Dany\Desktop\WInUpdateTool\obj\Debug\net9.0\WInUpdateTool.AssemblyInfo.cs
+C:\Users\Dany\Desktop\WInUpdateTool\obj\Debug\net9.0\WInUpdateTool.csproj.CoreCompileInputs.cache

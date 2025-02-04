@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>DefenderTool</RootNamespace>
+    <ApplicationIcon>Resources\images\icon.ico</ApplicationIcon>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <ApplicationManifest>DefenderTool.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\enable.bat" />
+    <EmbeddedResource Include="Resources\disable.bat" />
+    <EmbeddedResource Include="Resources\defrv.exe" />
+    <EmbeddedResource Include="Resources\images\icon.png" />
+    <EmbeddedResource Include="Resources\images\icon.ico" />
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\WInUpdateTool.exe
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\WInUpdateTool.dll
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\WInUpdateTool.deps.json
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\WInUpdateTool.runtimeconfig.json
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\WInUpdateTool.pdb
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\System.ServiceProcess.ServiceController.dll
+C:\Users\Dany\Desktop\WInUpdateTool\bin\Release\net9.0-windows\publish\runtimes\win\lib\net9.0\System.ServiceProcess.ServiceController.dll

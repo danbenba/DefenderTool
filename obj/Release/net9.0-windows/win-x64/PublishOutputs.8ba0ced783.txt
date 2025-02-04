@@ -1,0 +1,2 @@
+D:\Software\Development\C#\DefenderTool\publish\DefenderTool.pdb
+D:\Software\Development\C#\DefenderTool\publish\DefenderTool.exe
